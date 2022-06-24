@@ -1,0 +1,81 @@
+.h1 {
+  color: aqua;
+  font-size: 50px;
+}
+.h1:hover {
+  color: red;
+  font-size: 150px;
+}
+.sarlavha{
+  background-color:bisque;
+}
+
+ .body { background-color: aqua;}
+
+ .img{
+   background-color:greenyellow;
+  width: 1000px;
+  height: 1000px;
+ }
+ .p{
+   color: rgb(233, 227, 227);
+   background-color: rgb(86, 55, 116);
+   font-size: 50px;
+   font-family: Arial, Helvetica, sans-serif;
+ }
+ .p:hover{
+  color:rgb(86, 55, 116); 
+  background-color: rgb(233, 227, 227);
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.img:hover{
+  background-color:blue;
+ width: 500px;
+ height: 500px;
+ border-radius: 10%;
+}
+.borderdiv {
+  width:450px;
+  background-color:#F2F2F2;
+  margin: auto;
+
+}
+.top_table {
+  background-color: white;
+}
+.sortirovka {
+  background-color: white;
+  border-radius: 10px;
+  margin-top: 10px;
+}
+.ffff{
+  background-color: white;
+  border-radius: 10px;
+}
+.hello h4, p {
+  margin: 0;
+}
+.top {
+  background-color: white;
+  margin-top: 10px;
+  width: 90%;
+  border-radius: 10px;
+}
+
+.Xochu{
+  background-color: #F46D40;
+  padding: 5px 20px;
+  border: none;
+  border-radius: 5px;
+  color: white;
+  margin-left: 10px;
+}
+.gramm{
+  color: #A4ACAD;
+}
+.adres{
+  margin-top: 5px;
+  margin-bottom: 5px;
+  text-align: center;
+}
